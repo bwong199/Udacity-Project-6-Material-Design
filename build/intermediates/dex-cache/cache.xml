@@ -6,112 +6,91 @@
         jumboMode="false"
         revision="23.0.0"
         sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
-        <dex dex="/Users/benwong/Downloads/Udacity_Project_6_XYZReader/XYZReader/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-789dd5f798e34641e8492b7245421976fdabeb05.jar" />
+        <dex dex="/Users/benwong/Downloads/Udacity_Project_6_XYZReader_Ben_Wong/XYZReader/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-789dd5f798e34641e8492b7245421976fdabeb05.jar" />
     </item>
     <item
-        jar="/Users/benwong/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="7052283359001bb108753cb0583a887d3bf94c82">
-        <dex dex="/Users/benwong/Downloads/Udacity_Project_6_XYZReader/XYZReader/build/intermediates/pre-dexed/debug/okhttp-3.1.2-e84db9993229193995ce7ca811e00478ae92d9d8.jar" />
-    </item>
-    <item
-        jar="/Users/benwong/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="98476622f10715998eacf9240d6b479f12c66143">
-        <dex dex="/Users/benwong/Downloads/Udacity_Project_6_XYZReader/XYZReader/build/intermediates/pre-dexed/debug/okio-1.6.0-034017565d91d71718bd2c1a18c30ab171fc8f55.jar" />
-    </item>
-    <item
-        jar="/Users/benwong/Downloads/Udacity_Project_6_XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/classes.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
-        <dex dex="/Users/benwong/Downloads/Udacity_Project_6_XYZReader/XYZReader/build/intermediates/pre-dexed/debug/classes-29f0e4f6f30cc86dfb4040e9d84bb63eb6a9efa1.jar" />
-    </item>
-    <item
-        jar="/Users/benwong/Downloads/Udacity_Project_6_XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/classes.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
-        <dex dex="/Users/benwong/Downloads/Udacity_Project_6_XYZReader/XYZReader/build/intermediates/pre-dexed/debug/classes-b658e2bbaa44b99b7e117e6802770c4b2f68aa83.jar" />
-    </item>
-    <item
-        jar="/Users/benwong/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="7052283359001bb108753cb0583a887d3bf94c82">
-        <dex dex="/Users/benwong/Downloads/Udacity_Project_6_XYZReader/XYZReader/build/intermediates/pre-dexed/debug/okhttp-3.1.2-e84db9993229193995ce7ca811e00478ae92d9d8.jar" />
-    </item>
-    <item
-        jar="/Users/benwong/Downloads/Udacity_Project_6_XYZReader/XYZReader/libs/volley.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
-        <dex dex="/Users/benwong/Downloads/Udacity_Project_6_XYZReader/XYZReader/build/intermediates/pre-dexed/debug/volley-508b892b6349c4ec941e222ccfceb8ffd1bc8349.jar" />
-    </item>
-    <item
-        jar="/Users/benwong/Downloads/Udacity_Project_6_XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.1.1/classes.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
-        <dex dex="/Users/benwong/Downloads/Udacity_Project_6_XYZReader/XYZReader/build/intermediates/pre-dexed/debug/classes-71dd180cd9f3ec8d64b4d5534d72c5bafec897b8.jar" />
-    </item>
-    <item
-        jar="/Users/benwong/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="98476622f10715998eacf9240d6b479f12c66143">
-        <dex dex="/Users/benwong/Downloads/Udacity_Project_6_XYZReader/XYZReader/build/intermediates/pre-dexed/debug/okio-1.6.0-034017565d91d71718bd2c1a18c30ab171fc8f55.jar" />
-    </item>
-    <item
-        jar="/Users/benwong/Downloads/Udacity_Project_6_XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/libs/internal_impl-23.1.1.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
-        <dex dex="/Users/benwong/Downloads/Udacity_Project_6_XYZReader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-a8a242cb03ce155e409844571b163c89d4caf619.jar" />
-    </item>
-    <item
-        jar="/Users/benwong/Downloads/Udacity_Project_6_XYZReader/XYZReader/libs/volley.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
-        <dex dex="/Users/benwong/Downloads/Udacity_Project_6_XYZReader/XYZReader/build/intermediates/pre-dexed/debug/volley-508b892b6349c4ec941e222ccfceb8ffd1bc8349.jar" />
-    </item>
-    <item
-        jar="/Users/benwong/Downloads/Udacity_Project_6_XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/classes.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
-        <dex dex="/Users/benwong/Downloads/Udacity_Project_6_XYZReader/XYZReader/build/intermediates/pre-dexed/debug/classes-e6f8ddb3baf5081ab4f59593d480185c4431bd23.jar" />
-    </item>
-    <item
-        jar="/Users/benwong/Downloads/Udacity_Project_6_XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/23.0.0/classes.jar"
+        jar="/Users/benwong/Downloads/Udacity_Project_6_XYZReader_Ben_Wong/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/23.0.0/classes.jar"
         jumboMode="false"
         revision="23.0.0"
         sha1="15b669fd484d82539a354ccd1f2a08737474e95e">
-        <dex dex="/Users/benwong/Downloads/Udacity_Project_6_XYZReader/XYZReader/build/intermediates/pre-dexed/debug/classes-b898f6af684fe5d468d369f22a0777f74514b277.jar" />
+        <dex dex="/Users/benwong/Downloads/Udacity_Project_6_XYZReader_Ben_Wong/XYZReader/build/intermediates/pre-dexed/debug/classes-1cd48a6f18109a0e3785a359bbd764bd89034339.jar" />
     </item>
     <item
-        jar="/Users/benwong/Downloads/Udacity_Project_6_XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.0/classes.jar"
+        jar="/Users/benwong/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
         jumboMode="false"
         revision="23.0.0"
-        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
-        <dex dex="/Users/benwong/Downloads/Udacity_Project_6_XYZReader/XYZReader/build/intermediates/pre-dexed/debug/classes-9c24fe8d0ba371367e7ce0b3b73eff65c7ed1f1f.jar" />
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="/Users/benwong/Downloads/Udacity_Project_6_XYZReader_Ben_Wong/XYZReader/build/intermediates/pre-dexed/debug/okhttp-3.1.2-e84db9993229193995ce7ca811e00478ae92d9d8.jar" />
     </item>
     <item
-        jar="/Users/benwong/Downloads/Udacity_Project_6_XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.0/classes.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="bb0ac3f3ee2d71854501cc28e52cc84a20209b41">
-        <dex dex="/Users/benwong/Downloads/Udacity_Project_6_XYZReader/XYZReader/build/intermediates/pre-dexed/debug/classes-be6848fa27b890048c2422bed3b641a5210daf80.jar" />
-    </item>
-    <item
-        jar="/Users/benwong/Downloads/Udacity_Project_6_XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.0/libs/internal_impl-23.0.0.jar"
+        jar="/Users/benwong/Downloads/Udacity_Project_6_XYZReader_Ben_Wong/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.0/libs/internal_impl-23.0.0.jar"
         jumboMode="false"
         revision="23.0.0"
         sha1="5d4bccb885c8a89d066ecb6c4addb553a99a79a2">
-        <dex dex="/Users/benwong/Downloads/Udacity_Project_6_XYZReader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-555b560c44ec602222ded52d922f15674f916862.jar" />
+        <dex dex="/Users/benwong/Downloads/Udacity_Project_6_XYZReader_Ben_Wong/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-ceadb83b03665a49a2fb4e2a0d56a5000fb85075.jar" />
+    </item>
+    <item
+        jar="/Users/benwong/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/benwong/Downloads/Udacity_Project_6_XYZReader_Ben_Wong/XYZReader/build/intermediates/pre-dexed/debug/okio-1.6.0-034017565d91d71718bd2c1a18c30ab171fc8f55.jar" />
+    </item>
+    <item
+        jar="/Users/benwong/Downloads/Udacity_Project_6_XYZReader_Ben_Wong/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.1.1/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/benwong/Downloads/Udacity_Project_6_XYZReader_Ben_Wong/XYZReader/build/intermediates/pre-dexed/debug/classes-8123bcb236484e09223e1267d9e31d691c4d1398.jar" />
+    </item>
+    <item
+        jar="/Users/benwong/Downloads/Udacity_Project_6_XYZReader_Ben_Wong/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/benwong/Downloads/Udacity_Project_6_XYZReader_Ben_Wong/XYZReader/build/intermediates/pre-dexed/debug/classes-6a33bd636c82393b176661e54726e616051634b1.jar" />
+    </item>
+    <item
+        jar="/Users/benwong/Downloads/Udacity_Project_6_XYZReader_Ben_Wong/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/benwong/Downloads/Udacity_Project_6_XYZReader_Ben_Wong/XYZReader/build/intermediates/pre-dexed/debug/classes-79cf5ad8f08a3b73a96b2cb8d6804677a74ff91c.jar" />
+    </item>
+    <item
+        jar="/Users/benwong/Downloads/Udacity_Project_6_XYZReader_Ben_Wong/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/benwong/Downloads/Udacity_Project_6_XYZReader_Ben_Wong/XYZReader/build/intermediates/pre-dexed/debug/classes-4f9b84ebeb8dcefce24a229322eb7c0835661659.jar" />
+    </item>
+    <item
+        jar="/Users/benwong/Downloads/Udacity_Project_6_XYZReader_Ben_Wong/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.0/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="bb0ac3f3ee2d71854501cc28e52cc84a20209b41">
+        <dex dex="/Users/benwong/Downloads/Udacity_Project_6_XYZReader_Ben_Wong/XYZReader/build/intermediates/pre-dexed/debug/classes-358c6dd31490fbfe9821a738465be84d53fae61e.jar" />
+    </item>
+    <item
+        jar="/Users/benwong/Downloads/Udacity_Project_6_XYZReader_Ben_Wong/XYZReader/libs/volley.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/Users/benwong/Downloads/Udacity_Project_6_XYZReader_Ben_Wong/XYZReader/build/intermediates/pre-dexed/debug/volley-e2f822a4233cd31f48b90de4f71b6c642707a61c.jar" />
+    </item>
+    <item
+        jar="/Users/benwong/Downloads/Udacity_Project_6_XYZReader_Ben_Wong/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.0/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="/Users/benwong/Downloads/Udacity_Project_6_XYZReader_Ben_Wong/XYZReader/build/intermediates/pre-dexed/debug/classes-8be1c9392f309d95b62a4ae878d4e2ae3d99d51d.jar" />
+    </item>
+    <item
+        jar="/Users/benwong/Downloads/Udacity_Project_6_XYZReader_Ben_Wong/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/benwong/Downloads/Udacity_Project_6_XYZReader_Ben_Wong/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-3b9d297967d03534de73d463b625272640c71c78.jar" />
     </item>
 
 </items>
