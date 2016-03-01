@@ -13,7 +13,7 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="vertical" android:background="#030000">
+        android:orientation="vertical" android:background="#000000">
 
         <!--suppress AndroidLintContentDescription -->
         <com.example.xyzreader.ui.DynamicHeightNetworkImageView
@@ -31,7 +31,7 @@
             android:paddingTop="16dp"
             android:paddingRight="16dp"
             android:paddingBottom="4dp"
-            android:textColor="#fcfcfc"
+            android:textColor="#ffffff"
             android:ellipsize="end"
             android:maxLines="4" />
 
